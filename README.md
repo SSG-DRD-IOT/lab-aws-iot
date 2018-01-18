@@ -1,4 +1,4 @@
-[Industrial Iot Workshop](https://github.com/SSG-DRD-IOT/Alliance-AWS-Workshop) > [AWS IoT Lab](lab-aws-iot.md)
+[AWS Alliance Workshop](https://github.com/SSG-DRD-IOT/Alliance-AWS-Workshop) > [AWS IoT Lab](lab-aws-iot.md)
 
 # AWS IoT Lab
 
