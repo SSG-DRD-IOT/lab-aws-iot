@@ -12,3 +12,9 @@ You will need to have completed the following steps:
 
 ## Configure AWS IoT
 The first step is to configure AWS IoT to recieve incomming data from your UP2 board. Please follow the [AWS IoT tutorial](https://docs.aws.amazon.com/iot/latest/developerguide/iot-console-signin.html) up to the **Configure Your Device** step.
+
+## Configure Pub/Sub Example 
+
+Now that you have configured AWS IoT lets configure the AWS Pub/Sub example in Arduino Create and start sending and reciveing data. 
+
+[Arduino Create AWS Pub/Sub](https://ssg-drd-iot.github.io/lab-arduino-create-aws-pub-sub)
